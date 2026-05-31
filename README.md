@@ -8,7 +8,7 @@
 **Web:** SQLi, XSS (R/S/DOM), IDOR, SSRF, XXE, SSTI, CSRF,
 Path Traversal, CORS misconfig — OWASP Top 10 / CWE Top 25  
 **Инструменты:** Burp Suite, OWASP ZAP, Nmap, Semgrep, Kali  
-**Языки:** Python, JS, SQL, Bash · Go/JS для code review
+**Языки:** Python, JS, SQL, Bash
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
