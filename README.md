@@ -1,11 +1,7 @@
 # Якушанов Денис
 
-Application Security • 2 курс • Москва
-
-Целюсь в AppSec. Начинал с вёрстки на HTML/JS — оттуда 
-практическое понимание, откуда берутся XSS и почему фронтенду 
-нельзя доверять. Системно закрываю веб-безопасность: лабы, 
-разбор CVE, CTF, bug bounty.
+Стажёр Application Security • Москва  
+Студент РТУ МИРЭА, направление «Фундаментальная информатика и ИТ»
 
 ## Навыки
 
@@ -43,13 +39,10 @@ Path Traversal, CORS misconfig — OWASP Top 10 / CWE Top 25
 - Ищу стажировку в AppSec
 
 ---
-
 # Denis Yakushanov
 
-Application Security • 2nd year CS student • Moscow
-
-Focused on web application security: manual and tool-assisted 
-vulnerability research, secure code review, AppSec tooling.
+Application Security Engineer (Intern) • Moscow  
+CS Student @ RTU MIREA (Computer Science & IT)
 
 ## Skills
 
