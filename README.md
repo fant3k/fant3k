@@ -72,7 +72,7 @@ Path Traversal, CORS misconfig — OWASP Top 10 / CWE Top 25
 
 ---
 
-[Telegram](https://t.me/lapsusS1) · [LinkedIn](https://linkedin.com/in/denis-yakushanov-3307423b9)## Hi there 👋
+[Telegram](https://t.me/lapsusS1) · [LinkedIn](https://linkedin.com/in/denis-yakushanov-3307423b9)
 
 <!--
 **fant3k/fant3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
