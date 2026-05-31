@@ -14,6 +14,14 @@ Path Traversal, CORS misconfig — OWASP Top 10 / CWE Top 25
 **Инструменты:** Burp Suite, OWASP ZAP, Nmap, Semgrep, Kali  
 **Языки:** Python, JS, SQL, Bash · Go/JS для code review
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-1B2D55?style=for-the-badge&logo=semgrep&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ## Проекты
 
 - **[AppSec-Recon-Framework](https://github.com/fant3k/AppSec-Recon-Framework)** — инструмент разведки веб-сервисов: TCP-скан, проверка CORS/заголовков/открытых файлов, smart fuzzing, отчёты JSON/Markdown
