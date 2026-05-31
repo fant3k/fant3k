@@ -49,7 +49,7 @@ CS Student @ RTU MIREA (Computer Science & IT)
 **Web:** SQLi, XSS (R/S/DOM), IDOR, SSRF, XXE, SSTI, CSRF,
 Path Traversal, CORS misconfig — OWASP Top 10 / CWE Top 25  
 **Tools:** Burp Suite, OWASP ZAP, Nmap, Semgrep, Kali  
-**Languages:** Python, JS, SQL, Bash · Go/JS for code review
+**Languages:** Python, JS, SQL, Bash
 
 ## Projects
 
