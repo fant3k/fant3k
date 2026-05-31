@@ -21,6 +21,7 @@ Path Traversal, CORS misconfig — OWASP Top 10 / CWE Top 25
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-00ADD8?style=for-the-badge&logo=nuclei&logoColor=white)
 
 ## Проекты
 
