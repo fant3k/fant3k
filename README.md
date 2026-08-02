@@ -1,14 +1,24 @@
 # Якушанов Денис
 
-Стажёр Application Security • Москва  
+Стажёр Application Security • Москва<br>
 Студент РТУ МИРЭА, направление «Фундаментальная информатика и ИТ»
+
+Занимаюсь безопасностью веб- и мобильных приложений: анализирую код и
+конфигурацию, собираю цепочку доказательств, проверяю достижимость уязвимости,
+оцениваю impact и предлагаю исправление первопричины.
 
 ## Навыки
 
-**Web:** SQLi, XSS (R/S/DOM), IDOR, SSRF, XXE, SSTI, CSRF,
-Path Traversal, CORS misconfig — OWASP Top 10 / CWE Top 25  
-**Инструменты:** Burp Suite, OWASP ZAP, Nmap, Semgrep, Kali  
-**Языки:** Python, JS, SQL, Bash
+**AppSec:** secure code review, vulnerability triage, SAST/DAST, threat modeling,
+dependency analysis, OWASP Top 10 и CWE Top 25<br>
+**Web:** анализ authentication, authorization, input/output boundaries,
+server-side requests, парсеров, загрузки файлов и browser security controls<br>
+**Mobile:** OWASP MASVS/MSTG; проверка хранения данных, сетевого взаимодействия,
+аутентификации, WebView и платформенных настроек<br>
+**SSDLC:** понимаю роль security requirements, SAST, DAST, dependency scanning и
+security gates в SDLC; знаком с моделями зрелости OWASP SAMM и BSIMM<br>
+**Инструменты:** Burp Suite, OWASP ZAP, Semgrep, Nmap, Nuclei, Docker, Kali Linux<br>
+**Языки:** Python, JavaScript, SQL, Bash
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -22,71 +32,25 @@ Path Traversal, CORS misconfig — OWASP Top 10 / CWE Top 25
 ## Проекты
 
 - **[LabSite](https://github.com/fant3k/labsite-showcase)** — AppSec-тренажёр с 100+ практическими заданиями и интерактивными испытаниями: code review, evidence-based triage, Hardening, Interview и CVE Lab ([открыть сайт](https://project-lab-site.vercel.app/))
-- **[AppSec-Recon-Framework](https://github.com/fant3k/AppSec-Recon-Framework)** — инструмент разведки веб-сервисов: TCP-скан, проверка CORS/заголовков/открытых файлов, smart fuzzing, отчёты JSON/Markdown
-- **[Vulnerable-Notes-Lab](https://github.com/fant3k/vulnerable-notes-lab)** — намеренно уязвимое Flask-приложение, 8 уязвимостей OWASP Top 10 + writeup-ы с разбором root cause (RU/EN)
-- **[Docker-Security-Lab](https://github.com/fant3k/docker-security-lab)** — SSH-харденинг и pentest веб-приложения в Docker
+- **[AppSec-Recon-Framework](https://github.com/fant3k/AppSec-Recon-Framework)** — инструмент разведки веб-сервисов: TCP-скан, проверка CORS, security headers и открытых файлов, smart fuzzing, отчёты JSON/Markdown
+- **[Vulnerable Notes Lab](https://github.com/fant3k/vulnerable-notes-lab)** — локальное намеренно уязвимое приложение на Python Standard Library: 8 изолированных сценариев, 16 автоматических проверок и writeup-ы RU/EN
+- **[SSH Log Analyzer](https://github.com/fant3k/ssh-log-analyzer)** — CLI-анализатор OpenSSH-логов: brute force, password spraying, распределённые атаки и успешный вход после серии ошибок; отчёты console/JSON/CSV
+- **[Docker Security Lab](https://github.com/fant3k/docker-security-lab)** — выполненное практическое задание по SSH-харденингу и pentest веб-приложения в Docker
 
-## CTF и Bug Bounty
+## CTF и практика
 
 - 🥇 1-е место — CodeGuard CTF (ноябрь 2025)
 - Топ 5% — WatCTF F25, ник ShowOff (сентябрь 2025)
 - Полуфинал — True Tech Champ, алгоритмический трек (МТС)
-- Standoff 365 Bug Bounty — специализация на XSS
+- 100+ лабораторий PortSwigger Web Security Academy
+- Google Cybersecurity Professional Certificate — пройден
 
 ## Сейчас
 
-- 70+ лаб PortSwigger Web Security Academy
-- Google Cybersecurity Professional Certificate — пройден
-- Ищу стажировку в AppSec
-
----
-# Denis Yakushanov
-
-Application Security Engineer (Intern) • Moscow  
-CS Student @ RTU MIREA (Computer Science & IT)
-
-## Skills
-
-**Web:** SQLi, XSS (R/S/DOM), IDOR, SSRF, XXE, SSTI, CSRF,
-Path Traversal, CORS misconfig — OWASP Top 10 / CWE Top 25  
-**Tools:** Burp Suite, OWASP ZAP, Nmap, Semgrep, Kali  
-**Languages:** Python, JS, SQL, Bash
-
-## Projects
-
-- **[LabSite](https://github.com/fant3k/labsite-showcase)** — AppSec trainer with 100+ hands-on tasks and interactive challenges covering code review, evidence-based triage, Hardening, Interview, and CVE Lab ([live site](https://project-lab-site.vercel.app/))
-- **[AppSec-Recon-Framework](https://github.com/fant3k/AppSec-Recon-Framework)** — web recon: TCP scan, CORS/headers/exposed files checks, smart fuzzing, JSON/Markdown reports
-- **[Vulnerable-Notes-Lab](https://github.com/fant3k/vulnerable-notes-lab)** — intentionally vulnerable Flask app, 8 OWASP Top 10 vulns + root-cause writeups (RU/EN)
-- **[Docker-Security-Lab](https://github.com/fant3k/docker-security-lab)** — SSH hardening + web app pentest in Docker
-
-## CTF & Bug Bounty
-
-- 🥇 1st place — CodeGuard CTF (Nov 2025)
-- Top 5% — WatCTF F25, nickname ShowOff (Sep 2025)
-- Semifinalist — True Tech Champ, algo track (MTS)
-- Standoff 365 Bug Bounty — XSS focus
-
-## Currently
-
-- 70+ PortSwigger Web Security Academy labs
-- Google Cybersecurity Professional Certificate — completed
-- Looking for an AppSec internship
+- развиваю LabSite и расширяю практику по vulnerability triage;
+- изучаю интеграцию AppSec-проверок в SSDLC;
+- ищу стажировку в Application Security.
 
 ---
 
 [Telegram](https://t.me/lapsusS1) · [LinkedIn](https://linkedin.com/in/denis-yakushanov-3307423b9)
-
-<!--
-**fant3k/fant3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
