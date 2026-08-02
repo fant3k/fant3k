@@ -21,6 +21,7 @@ Path Traversal, CORS misconfig — OWASP Top 10 / CWE Top 25
 
 ## Проекты
 
+- **[LabSite](https://github.com/fant3k/labsite-showcase)** — AppSec-тренажёр с 100+ практическими заданиями и интерактивными испытаниями: code review, evidence-based triage, Hardening, Interview и CVE Lab ([открыть сайт](https://project-lab-site.vercel.app/))
 - **[AppSec-Recon-Framework](https://github.com/fant3k/AppSec-Recon-Framework)** — инструмент разведки веб-сервисов: TCP-скан, проверка CORS/заголовков/открытых файлов, smart fuzzing, отчёты JSON/Markdown
 - **[Vulnerable-Notes-Lab](https://github.com/fant3k/vulnerable-notes-lab)** — намеренно уязвимое Flask-приложение, 8 уязвимостей OWASP Top 10 + writeup-ы с разбором root cause (RU/EN)
 - **[Docker-Security-Lab](https://github.com/fant3k/docker-security-lab)** — SSH-харденинг и pentest веб-приложения в Docker
@@ -53,6 +54,7 @@ Path Traversal, CORS misconfig — OWASP Top 10 / CWE Top 25
 
 ## Projects
 
+- **[LabSite](https://github.com/fant3k/labsite-showcase)** — AppSec trainer with 100+ hands-on tasks and interactive challenges covering code review, evidence-based triage, Hardening, Interview, and CVE Lab ([live site](https://project-lab-site.vercel.app/))
 - **[AppSec-Recon-Framework](https://github.com/fant3k/AppSec-Recon-Framework)** — web recon: TCP scan, CORS/headers/exposed files checks, smart fuzzing, JSON/Markdown reports
 - **[Vulnerable-Notes-Lab](https://github.com/fant3k/vulnerable-notes-lab)** — intentionally vulnerable Flask app, 8 OWASP Top 10 vulns + root-cause writeups (RU/EN)
 - **[Docker-Security-Lab](https://github.com/fant3k/docker-security-lab)** — SSH hardening + web app pentest in Docker
